@@ -1,0 +1,154 @@
+{
+  "schema": "I002_PUBLIC_REVIEW_CANDIDATE_V1",
+  "source_commit_sha": "b103adbd0df4c94231791549666d8638ed6ef939",
+  "source_files_total": 20,
+  "archive_file_count_not_all_published": 77,
+  "research_only": true,
+  "not_claiming_all_originals_public": true,
+  "code_files": [
+    {
+      "path": "MULTIMARKET_I002/data_quality.py",
+      "bytes": 3838,
+      "sha256": "9d4f0a2641b7a646672b5b8d29f4c9289507f857449fc37b562a88351804365c",
+      "git_blob_sha1": "1c69e6c29ae38b81717a40c26c0f42445b977823",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/event_runner.py",
+      "bytes": 4203,
+      "sha256": "a0fa9ea1e897c2f0e0472582bb49815fcfafbbbf418b4dda76499a0fc2bd92a5",
+      "git_blob_sha1": "6d520c4c94de90fae8b51fec6fd421ec9ec95c78",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/i002_event_lab_snapshot.py",
+      "bytes": 7559,
+      "sha256": "5045c97e4fab218bedeac637d67a0d3accb1eba42fda7a79edd3f80fc5afc945",
+      "git_blob_sha1": "e4779d77f2655582f76ef1d062c0a46d6f79d400",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/manifest.example.json",
+      "bytes": 2516,
+      "sha256": "5e7fd392ae93795fcbb3ef1daf2859b378e0c6721067de7c3d568c20fbf55041",
+      "git_blob_sha1": "8d0f9de1e8318faef3f24c56f96af0002b98ef7b",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/manifest_gate.py",
+      "bytes": 4945,
+      "sha256": "ba416d964b5383a66f2b73f6989431ff24386b699fd89ba518de7d27f39a1a2d",
+      "git_blob_sha1": "ed9f63b99227c8a121a541bcaf2465fd3c087845",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/policy_compare.py",
+      "bytes": 4157,
+      "sha256": "2ee71682191bec44811fafb734c0ef4203860af2a69f69c4324cf3e5329512bb",
+      "git_blob_sha1": "c93680ac9fcef7881ebf6e6da7f415fe3a0ad1cf",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/temporal_integrity.py",
+      "bytes": 5115,
+      "sha256": "56121d0c3ba7cd439e81399bf36a34bcccc28827f62f20403ae051509dd5db88",
+      "git_blob_sha1": "1387e722acd6d5f8f0a685fd25d9d0938b908720",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/test_data_quality.py",
+      "bytes": 1767,
+      "sha256": "0cd67c5bc448b0042fb273d5f01bc3d3ec5e857fd5fc8fadf47b051576e83ad3",
+      "git_blob_sha1": "bd611fe0fad524d8801fdfb26bb8b9800ff536ed",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/test_deepseek_fixes.py",
+      "bytes": 2621,
+      "sha256": "4f65299cd5f286f901b248b5502e03ead96e0a147eb5f02b0db24a2a20cab6d2",
+      "git_blob_sha1": "f6b3f265b8f432804e81e15f3a0892bd2c44e2fa",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/test_event_runner.py",
+      "bytes": 766,
+      "sha256": "5d5316c65c4064adf06572b948046f77b6d7c5e953eb76217956ecf8746cf155",
+      "git_blob_sha1": "21e80b658e87a01db06e41a47ce39f3d33718dc6",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/test_integrity_followups.py",
+      "bytes": 7447,
+      "sha256": "b2098350a9725115e53fad6ee17cbab19845e90eb672524e51af5903cb667e5b",
+      "git_blob_sha1": "07370e19d78112cf620bf73d3f6a17d89a3b52d0",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/test_manifest_gate.py",
+      "bytes": 1167,
+      "sha256": "65a7d8b27e3282a4373dab9cc8f3d39468b5a94f7904c490d58fe5521c01eb9d",
+      "git_blob_sha1": "13b326ffa1b53386b76b1a4505132da1757067d7",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/test_policy_compare.py",
+      "bytes": 1361,
+      "sha256": "2dd9e8db978afdd0760f3b67d05d80f2c7aaf8c9c6df10d71b49305ba5b29468",
+      "git_blob_sha1": "5fa5d750ecb94a4c2e556fc65ea2089cd3fcab9b",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/test_price_unit_summary.py",
+      "bytes": 1138,
+      "sha256": "1495da514b5d8022e5d247118a44b8f151cd4043adf85c212cdabaf364e9d35d",
+      "git_blob_sha1": "6eab3b8e6f0ec0cbf2822ee127cf24dd0ab89552",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/test_scientific_integrity.py",
+      "bytes": 1881,
+      "sha256": "646ad28248f9752bd929de0302833f0fed6eb44528d059d6c155f6e60f047d62",
+      "git_blob_sha1": "0d0d695809329ed89ebf60a4e4b919648b2e993e",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/test_temporal_integrity.py",
+      "bytes": 1828,
+      "sha256": "d3b3859f52a1207c145e68e77f16a6d340104f3453129f32cddd0249ae85a7b9",
+      "git_blob_sha1": "55edc72945808cfacab44467341d0018b22c7d9e",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/test_virtual_execution.py",
+      "bytes": 1224,
+      "sha256": "95494a8a2d7097cb21faf7f8a81301c07ddd184309874c8a0536dbdeaffe7c0e",
+      "git_blob_sha1": "d75edbef1d283171a60f527520e45b93588b22f6",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/test_virtual_policy_pilot.py",
+      "bytes": 4272,
+      "sha256": "9b2ef2ca6b3df716adece0598fcea4f4a7411d2e8f537c3b3e6d5e736887ba19",
+      "git_blob_sha1": "9112be26868bec7b2337d97984fe95d67ec36a15",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/virtual_execution.py",
+      "bytes": 2928,
+      "sha256": "9ea901082a31844233ca63422f8c1bd92c7b0bcfe75086a9c5a2981b2363962f",
+      "git_blob_sha1": "f9fb39e6db70c7559db1df74ee66415d4dbe06c0",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    },
+    {
+      "path": "MULTIMARKET_I002/virtual_policy_pilot.py",
+      "bytes": 6334,
+      "sha256": "490381dc02bf57af02ca8cb9adafed2e55e0d384f248d14d6304c7e404e1540e",
+      "git_blob_sha1": "3f06a125343aaf0c6b6e49e8adfd396cf70f6d6c",
+      "status": "OWNER_APPROVED_FOR_PUBLIC_RESEARCH_REVIEW"
+    }
+  ],
+  "release_authorized_by_owner": true,
+  "authorized_scope": "Only the 20 original research files and 4 public release guides under I002_RESEARCH_PUBLIC in AI-AUDIT-PUBLIC-ACCESS-TEST",
+  "original_files_unchanged": true,
+  "date_of_authorization": "2026-11-06"
+}
